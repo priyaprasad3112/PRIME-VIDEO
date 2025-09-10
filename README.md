@@ -35,4 +35,5 @@ D) Features & Highlights:-
 ✅ Interactive Filters – By genre, country, release year, and ratings
 ✅ Dynamic KPIs – Total titles, average rating, number of countries
 
-ScreenshotS:- show how the dashboardnlooks like_ Example:-
+ScreenshotS:- show how the dashboardnlooks like_ 
+Example:- https://github.com/priyaprasad3112/PRIME-VIDEO/blob/main/Screenshot%202025-09-10%20163557.png
